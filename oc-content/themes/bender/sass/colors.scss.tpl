@@ -6,6 +6,6 @@ $textcolor:#333;
 $linkcolor:#069;
 $contrasted-default-dark:   #000;
 $contrasted-default-light:  #fff;
-$contrasted-default-extremelight: #35c3d9;
+$contrasted-default-extremelight: #e25311;
 $widgetbackground: #f7f7f7;
 $widgetbordercolor: darken($widgetbackground,5%);
