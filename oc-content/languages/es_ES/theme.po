@@ -212,7 +212,7 @@ msgstr "Regístrate gratis"
 
 #: footer.php:50 header.php:60
 msgid "Publish your ad for free"
-msgstr "Publica tu anuncio gratis"
+msgstr "Publicate gratis"
 
 #: footer.php:65 functions.php:376 user-public-sidebar.php:26
 msgid "Contact"
